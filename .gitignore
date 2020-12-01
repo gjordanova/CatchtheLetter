@@ -1,0 +1,11 @@
+Library
+obj
+Temp
+XUnityDeploy
+*.vs
+*.csproj
+*.sln
+*.suo
+*.unityproj
+*.userprefs
+.DS_Store
