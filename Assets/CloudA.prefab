@@ -217,6 +217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   anim: {fileID: 5027405313531459898}
+  beforeanim: 0
 --- !u!50 &50524039739270082
 Rigidbody2D:
   serializedVersion: 4

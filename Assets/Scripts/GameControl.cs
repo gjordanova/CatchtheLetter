@@ -68,14 +68,7 @@ public class GameControl : MonoBehaviour
         PauseMenu.gameObject.SetActive(false);
         Pause_Button.onClick.AddListener(GamePause);
     }
-    private void Update()
-    {
-        //if (balloonFly.isDead == true)
-        //{
-        //    balloonFly.GetComponent<Rigidbody2D>().gravityScale = 0;
-            
-        //}
-    }
+
     public void Player_Scored()
     {
         if (gameOver)

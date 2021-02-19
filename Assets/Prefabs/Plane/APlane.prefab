@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1629727439939836279}
   m_Layer: 0
   m_Name: APlane
-  m_TagString: Balloon
+  m_TagString: Plane
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
